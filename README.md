@@ -9,7 +9,8 @@ Image
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hopelessdevloper)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- ✔️ I'm look forward to contribute to anything I can help with 
+- ✔️ I'm look forward to contribute to anything that I can help with 
+
 - 👀 Stuff I Like Are : Machine Learning & Cybersecurity
 - 🌱 Stuff I'm learning :
   - <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
