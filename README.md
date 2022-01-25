@@ -1,13 +1,15 @@
+ ![](https://github.com/Hopelessdevloper/Hopelessdevloper/blob/main/2b692408-2bf4-4f7b-a60f-560198da3c8a.gif)
+
 :space_invader: I’m @Hopelessdevloper & Welcome To My Profile :D
 
 Image
 
-<a href="https://app.codiga.io/public/user/github/<username>">
-   <img src="https://app.codiga.io/public/badge/user/github/<username>" alt="Codiga badge" />
+<a href="https://app.codiga.io/public/user/github/Hopelessdevloper">
+   <img src="https://api.codiga.io/public/badge/user/github/Hopelessdevloper?style=dark" alt="codiga badge" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hopelessdevloper)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hopelessdevloper&show_icons=true&theme=radical)]()
+ 
 
 - ✔️ I'm look forward to contribute to anything that I can help with 
 
